@@ -1,0 +1,30 @@
+/*  */
+.box
+{
+    width: 100%;
+    height: 70px;
+    background-color: red;
+}
+
+.logo_meta
+{
+    display: block;
+    width: 90px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_TD:hover
+{
+    color: blueviolet;
+}
+
+.ring
+{
+    display: block;
+    width: 50%;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+}
